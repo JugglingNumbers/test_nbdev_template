@@ -10,7 +10,7 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: module name here
+      title: Key pieces to have a colab compatible nbdev based github library
       url: core.html
     output: web
     title: test_nbdev_template

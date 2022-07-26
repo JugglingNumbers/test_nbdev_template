@@ -1,6 +1,6 @@
 {
   "test_nbdev_template": {
     "Overview": "/",
-    "module name here": "core.html"
+    "Key pieces to have a colab compatible nbdev based github library": "core.html"
   }
 }
